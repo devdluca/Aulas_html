@@ -1,1 +1,8 @@
 primeiro commit
+Segundo commit for dlk vuilgo ferliep
+
+git pull --- baixar os arquivos do repositorio
+git status --- pra saber se tem auteração no arquivo local
+git add . --- pra adicionar tudo
+git commit -m "texto do meu commit" --- indentificação do commit
+git push --- subir os arquivos
