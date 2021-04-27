@@ -1,13 +1,16 @@
 .titulo {
+    transition: 0.2s;
    text-align: center;
     background-color: rgb(1, 115, 150);
-    width: 220px;
-    border-radius: 8px;
+    top: 0px;
+    position: relative;
+    width: 50%;
+    height: 50px;
+    border-radius: 3px;
     font-family: 'Noto Sans JP', sans-serif;
     color: rgb(233, 185, 27);
 }
-p {
+li,p{
     font-family: 'Noto Sans JP', sans-serif;
     color: rgb(0, 0, 0);
 }
- 
